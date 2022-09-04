@@ -1,0 +1,172 @@
+*{
+    
+    background-color:darkcyan;
+    margin: 0;
+    padding:0;
+}
+
+
+
+#titulo h1{
+    color: rgb(255, 44, 90);
+    font-size: 55px;
+    font-family: 'Courier New', Courier, monospace;
+   background-image: url("https://img.freepik.com/foto-gratis/textura-negra-fondo_1160-614.jpg?w=2000");
+    background-color: black;
+    
+}
+
+
+
+#item1 a{
+    
+    width: 100%;
+	margin: auto;
+	list-style: none;
+	padding: 10px;
+	box-sizing: border-box;
+	display: flex;
+	flex-wrap:wrap;
+	justify-content:center;
+    color: black;
+    text-align: center;
+    
+}
+
+
+
+#item1 h1{
+    border: 4px solid navajowhite;
+    border-style:dashed;
+    text-align: center;
+    background-color: rgb(255, 44, 90);
+    float: right;
+    width: 55%;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+#item1 p{
+    display:flexbox;
+    font-size: 30px;
+    background-color:navajowhite;
+    float: right;
+    border: 4px solid rgb(255, 44, 90);
+    border-style: dashed;
+width: 55%;
+cursor: pointer;
+}
+
+
+#item2 a{
+    
+    width: 100%;
+	margin: auto;
+	list-style: none;
+	padding: 10px;
+	box-sizing: border-box;
+	display: flex;
+	flex-wrap:wrap;
+	justify-content:center;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    
+    
+}
+#item2 h1{
+    background-color: rgb(255, 44, 90);
+    float: center;
+    width: 55%;
+    color: aliceblue;
+    text-align: center;
+   
+}
+
+#item2 p{
+    display: flexbox;
+    font-size: 30px;
+    background-color:lightblue;
+    float: center;
+width: 55%;
+}
+
+
+
+
+
+#item3 a{
+    
+    width: 100%;
+	margin: auto;
+	list-style: none;
+	padding: 10px;
+	box-sizing: border-box;
+	display: flex;
+	flex-wrap:wrap;
+	justify-content:center;
+    color: black;
+    text-align: center;
+    
+}
+
+#item3 h1{
+    background-color: rgb(255, 44, 90);
+    float: left;
+    width: 55%;
+    color: aliceblue;
+    text-align: center;
+    border: 4px solid rgb(44, 250, 253);
+    border-style: dashed;
+}
+
+#item3 p{
+    display: flexbox;
+    font-size: 30px;
+    background-color:rgb(44, 250, 253);
+    float: left;
+    border: 4px solid rgb(255, 44, 90);
+    border-style: dashed;
+width: 55%;
+}
+
+
+
+
+
+#item4 a{
+    
+    width: 100%;
+	margin: auto;
+	list-style: none;
+	padding: 10px;
+	box-sizing: border-box;
+	display: flex;
+	flex-wrap:wrap;
+	justify-content:center;
+    color: black;
+    text-align: center;
+    
+}
+
+#item4 h1{
+    background-color: rgb(255, 44, 90);
+    float: left;
+    width: 55%;
+    color: aliceblue;
+    text-align: center;
+}
+
+#item4 p{
+    display: flexbox;
+    font-size: 30px;
+    background-color:darkseagreen;
+    float: left;
+    
+
+width: 55%;
+}
+
+
+
+
